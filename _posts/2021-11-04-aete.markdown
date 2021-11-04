@@ -1,5 +1,22 @@
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello mates!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
----
-Title: "Primer Post"
----
-# La pesca desde un ordenador.
+## This is mi first post
+
+# About: 
+ Im Carlos Guerra and im studying to be a teacher.
+ 
+* Tabla:
+
+| Tarea         | Practica    |
+| ------------- | ----------- |
+| J. Web        | Github      |
+|In process     | En proceso  |
+
+
+<p align="center" >  
+  <a href="https://github.com/CGuerra2021/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=CGuerra2021&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+
+
