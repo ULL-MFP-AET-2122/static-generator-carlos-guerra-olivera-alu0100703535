@@ -12,7 +12,6 @@
 | J. Web        | Github      |
 |In process     | En proceso  |
 
-
 <p align="center" >  
   <a href="https://github.com/CGuerra2021/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=CGuerra2021&&show_icons=true&theme=radical"/>
