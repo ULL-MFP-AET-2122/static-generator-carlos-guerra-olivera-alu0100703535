@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "CGuerra2021"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://frikichan.net/wp-content/uploads/2020/03/One-Piece-Monkey-D.-Luffy-Cropped.jpg"
   bio              : "I will try to be a **good** teacher."
   location         : "Tenerife, Canary Islands"
   email            :
