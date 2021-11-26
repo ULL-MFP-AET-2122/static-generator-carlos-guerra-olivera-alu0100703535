@@ -8,6 +8,8 @@ Para ello utilizaremos el [gitbloq](https://bitbloq.cc/) donde podremos
 programar por bloques, haciendo la practica dinámica y accesible para el
 alumnado.
 
+[Documento en PDF](https://github.com/ULL-MFP-AET-2122/static-generator-carlos-guerra-olivera-alu0100703535/blob/3734e05e1507e7aaa1dcf715473c841b1d824d32/docencia/_posts/2021-11-26-PracticaPandoc.pdf)
+
 El proceso se consiste en que al pasar por la puerta nuestro sensor
 detecta la entrada o salida de un usuario y suma o resta hasta llegar a
 10 que es el aforo permitido, momento en el cual activara un led en rojo
